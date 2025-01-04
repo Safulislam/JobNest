@@ -10,7 +10,7 @@ JobNeast is a React-based job management platform designed to streamline the hir
     * React
     * Tailwind CSS
     * JSON Server
-    * Vite (Development Server)
+    * Vite (Development Server) 
     
 *** Features **
     *For Developers:
